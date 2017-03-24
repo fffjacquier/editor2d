@@ -1,0 +1,3 @@
+this folder contains only items related to toolbar, not related to how they appear when in the editor itself
+
+(the code creating the item inside the editor is in the _executeAction function)
